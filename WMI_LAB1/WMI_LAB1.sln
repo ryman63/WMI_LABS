@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WMI_LAB1", "WMI_LAB1\WMI_LAB1.csproj", "{20D86B62-01CF-4737-94FA-0BAE6DFE6C54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{A7B5951F-ACBF-4646-9089-C139B7B20DF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20D86B62-01CF-4737-94FA-0BAE6DFE6C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D86B62-01CF-4737-94FA-0BAE6DFE6C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D86B62-01CF-4737-94FA-0BAE6DFE6C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D86B62-01CF-4737-94FA-0BAE6DFE6C54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B5951F-ACBF-4646-9089-C139B7B20DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B5951F-ACBF-4646-9089-C139B7B20DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B5951F-ACBF-4646-9089-C139B7B20DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B5951F-ACBF-4646-9089-C139B7B20DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E80D54ED-285E-461C-8C83-E4A4A66D8500}
+	EndGlobalSection
+EndGlobal

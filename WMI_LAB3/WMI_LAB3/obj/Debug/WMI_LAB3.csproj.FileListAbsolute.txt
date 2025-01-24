@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\source\repos\WMI_LAB3\WMI_LAB3\bin\Debug\WMI_LAB3.exe.config
+C:\Users\Дмитрий\source\repos\WMI_LAB3\WMI_LAB3\bin\Debug\WMI_LAB3.exe
+C:\Users\Дмитрий\source\repos\WMI_LAB3\WMI_LAB3\bin\Debug\WMI_LAB3.pdb
+C:\Users\Дмитрий\source\repos\WMI_LAB3\WMI_LAB3\obj\Debug\WMI_LAB3.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\WMI_LAB3\WMI_LAB3\obj\Debug\WMI_LAB3.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\WMI_LAB3\WMI_LAB3\obj\Debug\WMI_LAB3.exe
+C:\Users\Дмитрий\source\repos\WMI_LAB3\WMI_LAB3\obj\Debug\WMI_LAB3.pdb
